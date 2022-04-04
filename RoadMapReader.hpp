@@ -1,11 +1,4 @@
-// RoadMapReader.hpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// The RoadMapReader class provides an object that knows how to read a
-// RoadMap from the standard input, using the format given in the
-// project write-up.
+
 
 #ifndef ROADMAPREADER_HPP
 #define ROADMAPREADER_HPP
