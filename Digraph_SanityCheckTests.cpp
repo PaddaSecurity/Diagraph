@@ -1,21 +1,4 @@
-// Digraph_SanityCheckTests.cpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// This is a set of "sanity checking" unit tests for your Digraph
-// implementation, provided primarily as a mechanism for ensuring
-// that your implementation is compatible with the unit tests we'll
-// be using to test your implementation during grading, as well as
-// to provide simple examples of how each member function is supposed
-// to behave.
-//
-// While you'll certainly want all of these tests to pass before you
-// consider yourself done with Digraph, there are plenty of interesting
-// cases that are not tested here.  The phrase "sanity checking" was
-// chosen for a reason; this is just a cursory check to be sure that
-// the basics are in place.  It'll be up to you to round out that
-// testing with your own, more thorough testing.
+
 
 #include <algorithm>
 #include <string>
