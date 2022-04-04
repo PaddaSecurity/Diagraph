@@ -1,11 +1,3 @@
-// RoadMap.hpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// This header defines a type RoadMap, which is simply a shorthand name for a
-// particular instantiation of the Digraph template, where each vertex has a
-// string for its information and each edge has a RoadSegment for its information.
 
 #ifndef ROADMAP_HPP
 #define ROADMAP_HPP
