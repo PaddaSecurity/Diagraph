@@ -1,12 +1,4 @@
-// RoadMapWriter.hpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// The RoadMapWriter class is capable of writing a RoadMap to an output
-// stream in a format that allows you to see information about it.  This
-// is provided purely as a debugging aid; you don't actually need it to
-// solve the problem at hand.
+
 
 #ifndef ROADMAPWRITER_HPP
 #define ROADMAPWRITER_HPP
