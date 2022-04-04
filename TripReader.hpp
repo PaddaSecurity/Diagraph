@@ -1,10 +1,3 @@
-// TripReader.hpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// A TripReader reads a sequence of trips from the given input, assuming
-// they're written in the format described in the project write-up.
 
 #ifndef TRIPREADER_HPP
 #define TRIPREADER_HPP
