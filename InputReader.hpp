@@ -1,12 +1,3 @@
-// InputReader.hpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// An InputReader wraps an istream (such as std::cin) and allows you to read
-// lines of text from it, skipping lines that are not a meaningful part of
-// the input.  In this project, that means blank lines, lines containing
-// only spaces, and lines that begin with a '#' character.
 
 #ifndef INPUTREADER_HPP
 #define INPUTREADER_HPP
