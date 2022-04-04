@@ -1,7 +1,4 @@
-// RoadMapWriter.cpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
+
 
 #include "RoadMapWriter.hpp"
 
