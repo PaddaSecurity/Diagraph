@@ -1,21 +1,4 @@
-// Digraph.hpp
-//
-// ICS 46 Winter 2022
-// Project #5: Rock and Roll Stops the Traffic
-//
-// This header file declares a class template called Digraph, which is
-// intended to implement a generic directed graph.  The implementation
-// uses the adjacency lists technique, so each vertex stores a linked
-// list of its outgoing edges.
-//
-// Along with the Digraph class template is a class DigraphException
-// and a couple of utility structs that aren't generally useful outside
-// of this header file.
-//
-// In general, directed graphs are all the same, except in the sense
-// that they store different kinds of information about each vertex and
-// about each edge; these two types are the type parameters to the
-// Digraph class template.
+
 
 #ifndef DIGRAPH_HPP
 #define DIGRAPH_HPP
